@@ -115,7 +115,7 @@
 .item__text_edit {
   width: 226px;
 }
-.item > .item__btn_delete:hover {
+.item__btn_delete:hover {
   color: #cf2323;
 }
 .btn__img {
