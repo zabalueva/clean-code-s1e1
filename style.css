@@ -18,14 +18,19 @@
 }
 
 @media (max-width:768px) {
-  .head-banner { text-align: center;
+
+  .head-banner {
+    text-align: center;
+  }
+
 }
-}
+
 .main-content {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
+
 .add__task {
   width: 56%;
   display: inline-block;
@@ -34,6 +39,7 @@
 .add__wrap {
   display: flex;
 }
+
 .list {
   margin:0;
   padding: 0px;
@@ -97,7 +103,6 @@
   justify-content: space-between;
   align-items: center;
 }
-
 .item__checkbox {
   margin: 0 10px;
 }
