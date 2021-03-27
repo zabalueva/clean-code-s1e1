@@ -45,7 +45,7 @@
   padding: 0px;
 }
 .item {
-  list-style:none;
+  list-style: none;
 }
 
 .btn {
@@ -56,7 +56,7 @@
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 .btn:hover {
   color: #3a3a3a;
@@ -78,7 +78,7 @@
   height: 21px;
   padding: 0 9px;
   border: 1px solid #dDd;
-  outline:none;
+  outline: none;
   background: #FFF;
   border-radius: 6px;
   font-family: Lato, sans-serif;
@@ -135,14 +135,14 @@
 
 /* Edit Task */
 .list .item__text_edit {
-  display:none
+  display: none
 }
 
 .list .item.editMode .item__text_edit {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list .item.editMode .item__text {
-  display:none;
+  display: none;
 }
